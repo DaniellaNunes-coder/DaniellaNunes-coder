@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou a Daniella</h1>
+<h1 align="center">Olá! Eu sou a Daniella Nunes</h1>
 
 <p align="center">
 Desenvolvedora full stack em formação <br>
@@ -8,7 +8,7 @@ Criadora do projeto <strong>My NuvemLens</strong>.
 
 ---
 
-## 💻 Sobre mim
+## Sobre mim
 
 Sou estudante de Desenvolvimento de Software Multiplataforma na FATEC Cotia.  
 Tenho interesse em projetos que envolvem tecnologia, natureza e impacto social.  
